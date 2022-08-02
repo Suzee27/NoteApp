@@ -1,4 +1,4 @@
-﻿using CCSANoteApp.Domain;
+﻿using CCSANoteApp.Domain.Models;
 using FluentNHibernate.Mapping;
 
 namespace CCSANoteApp.DB.Mappings

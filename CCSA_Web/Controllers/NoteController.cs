@@ -1,6 +1,6 @@
 ﻿using CCSA_Web.DTOs;
 using CCSA_Web.Services;
-using CCSANoteApp.Domain;
+using CCSANoteApp.Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CCSA_Web.Controllers

@@ -1,4 +1,4 @@
-﻿namespace CCSANoteApp.Domain
+﻿namespace CCSANoteApp.Domain.Models
 {
     public class Note
     {
