@@ -1,4 +1,4 @@
-﻿using CCSANoteApp.Domain;
+﻿using CCSANoteApp.Domain.Models;
 
 namespace CCSA_Web.Services
 {
